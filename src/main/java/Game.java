@@ -11,7 +11,7 @@ public class Game {
     private final Screen screen;
 
     // Constructor to initialize the terminal and screen
-    public Game() throws IOException {
+    public Game(int  width, int height) throws IOException {
         // Create the terminal
         TerminalSize terminalSize = new TerminalSize(40, 20);
         DefaultTerminalFactory terminalFactory = new DefaultTerminalFactory()
