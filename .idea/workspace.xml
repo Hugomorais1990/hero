@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31b2dc73-72b6-4273-8843-f7ed7e40bbb6" name="Changes" comment="6. Creating the game">
+    <list default="true" id="31b2dc73-72b6-4273-8843-f7ed7e40bbb6" name="Changes" comment="6. Creating the game Finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696005387087</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6. Creating the game Finished">
+      <created>1696006027616</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696006027616</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +140,7 @@
     <MESSAGE value="3. Building and Running" />
     <MESSAGE value="5. Using Lanterna" />
     <MESSAGE value="6. Creating the game" />
-    <option name="LAST_COMMIT_MESSAGE" value="6. Creating the game" />
+    <MESSAGE value="6. Creating the game Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="6. Creating the game Finished" />
   </component>
 </project>

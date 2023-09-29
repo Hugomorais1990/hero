@@ -9,6 +9,8 @@ import java.io.IOException;
 
 public class Game {
     private final Screen screen;
+    private int x = 10; // Initial x position
+    private int y = 10; // Initial y position
 
     // Constructor to initialize the terminal and screen
     public Game(int  width, int height) throws IOException {
@@ -28,7 +30,7 @@ public class Game {
     // Method to draw on the screen
     private void draw() throws IOException {
         screen.clear();
-        screen.setCharacter(10, 10, TextCharacter.fromCharacter('X')[0]);
+        screen.setCharacter(x, y, TextCharacter.fromCharacter('X')[0]);
         screen.refresh();
     }
 
