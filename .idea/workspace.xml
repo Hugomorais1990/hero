@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31b2dc73-72b6-4273-8843-f7ed7e40bbb6" name="Changes" comment="3. Building and Running">
+    <list default="true" id="31b2dc73-72b6-4273-8843-f7ed7e40bbb6" name="Changes" comment="5. Using Lanterna">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696003113148</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5. Using Lanterna">
+      <created>1696004799800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696004799800</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +124,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="test4" />
     <MESSAGE value="3. Building and Running" />
-    <option name="LAST_COMMIT_MESSAGE" value="3. Building and Running" />
+    <MESSAGE value="5. Using Lanterna" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. Using Lanterna" />
   </component>
 </project>
